@@ -62,7 +62,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cristianp98/cristianp98/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Animation](https://github.com/<cristianp98>/<cristianp98>/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
