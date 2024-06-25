@@ -78,7 +78,8 @@
 <div align="center">
   <h2>🐍 Mis Contribuciones 🐍</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/cristianp98/cristianp98/output/snake.svg" alt="Snake animation" />
+  
+  ![snake animation](https://github.com/<seu cristianp98>/<seu cristianp98>/blob/output/github-contribution-grid-snake2.svg)
   
   <br/><br/><br/>
 </div>
