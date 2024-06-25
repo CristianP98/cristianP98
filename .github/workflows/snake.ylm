@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Snake
+=======
+- name: generate-snake-game-from-github-contribution-grid
+uses: Platane/snk@v3.2.0
+            
+name: Generate snake animation
+>>>>>>> 197225a13ac7abbdf21e00d6d5ae7522cf086306
 
 # Controls when the action will run.
 on:
