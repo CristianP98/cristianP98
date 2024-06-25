@@ -1,7 +1,7 @@
 ###
 
 
-<div align="center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F644FC&random=false&width=435&lines=Hola+a+todos+%F0%9F%91%8B!!;Soy+Cristian+Panche%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Dise%C3%B1ador+Y+Desarrollador" alt="Typing SVG" /></a></div>
+<div align="center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F644FC&random=false&width=435&lines=Hola+a+todos+%F0%9F%91%8B!!;Soy+Cristian+Panche%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Dise%C3%B1ador+Y+Desarrollador;" alt="Typing SVG" /></a></div>
 
 ###
 
@@ -75,6 +75,12 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <h2>🐍 Mis Contribuciones 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ###
