@@ -63,7 +63,7 @@
   <a href="https://www.behance.net/CristianPanche12" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
-</div>
+
 
 ### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -71,4 +71,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Cristianp98&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
