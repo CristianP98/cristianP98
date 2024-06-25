@@ -78,7 +78,7 @@
 <div align="center">
   <h2>🐍 Mis Contribuciones 🐍</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/cesarlpb/cesarlpb/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/cristianp98/cristianp98/output/snake.svg" alt="Snake animation" />
   
   <br/><br/><br/>
 </div>
